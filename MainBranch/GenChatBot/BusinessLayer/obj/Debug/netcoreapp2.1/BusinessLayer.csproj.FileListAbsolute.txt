@@ -1,0 +1,8 @@
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+D:\Users\703251061\Downloads\MainBranch\MainBranch\GenChatBot\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb

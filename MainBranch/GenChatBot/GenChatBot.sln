@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenChatBot", "GenChatBot\GenChatBot.csproj", "{55929345-F1EF-4163-9C6F-88A0A2EE16C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{713BEA8A-929D-41C5-AD0D-3107584F5325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55929345-F1EF-4163-9C6F-88A0A2EE16C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55929345-F1EF-4163-9C6F-88A0A2EE16C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55929345-F1EF-4163-9C6F-88A0A2EE16C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55929345-F1EF-4163-9C6F-88A0A2EE16C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713BEA8A-929D-41C5-AD0D-3107584F5325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713BEA8A-929D-41C5-AD0D-3107584F5325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713BEA8A-929D-41C5-AD0D-3107584F5325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713BEA8A-929D-41C5-AD0D-3107584F5325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF39069-D481-4120-97D4-4AFA59E53BA5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/Genpact-GECars
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GenChatBot\\GenChatBot.csproj
+		SccProjectName1 = GenChatBot
+		SccLocalPath1 = GenChatBot
+		SccProjectUniqueName2 = BusinessLayer\\BusinessLayer.csproj
+		SccProjectName2 = BusinessLayer
+		SccLocalPath2 = BusinessLayer
+	EndGlobalSection
+EndGlobal
