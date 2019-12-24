@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MainBranch/GenChatBot/.vs/GenChatBot/v16/Server/sqlite3
